@@ -6,8 +6,8 @@ I'm Ahmad, I am a self-made data analyst with a passion for uncovering insights 
 🤝 **About Me** 🤝
 
 - 👩🏻‍💻 Cost Control Engineer turned data analyst
-- 🌱 I’m currently exploring machine learning
-- 📝 Taught myself SQL, Python, Tableau, and R
+- 🌱 I’m currently exploring Machine Learning
+- 📝 Taught myself SQL, Python, Tableau, Power BI, and R
 
 <br/>
 
