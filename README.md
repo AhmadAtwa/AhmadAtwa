@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**AhmadAtwa/AhmadAtwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ahmad, I am a self-made data analyst with a passion for uncovering insights from data.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 **About Me** 🤝
+
+- 👩🏻‍💻 Cost Control Engineer turned data analyst
+- 🌱 I’m currently exploring machine learning
+- 📝 Taught myself SQL, Python, Tableau, and R
+
+
+💡 **Core Proficiencies** 💡
+
+Tools: SQL, Python, Tableau, R
+Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Problem Solving
