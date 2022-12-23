@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!
 
 I'm Ahmad, I am a self-made data analyst with a passion for uncovering insights from data.
 
