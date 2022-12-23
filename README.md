@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm Ahmad, I am a self-made data analyst with a passion for uncovering insights from data.
+I'm Ahmad, a self-made data analyst with a passion for uncovering insights from data.
 
 
 🤝 **About Me** 🤝
