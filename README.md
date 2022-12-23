@@ -12,5 +12,5 @@ I'm Ahmad, I am a self-made data analyst with a passion for uncovering insights 
 
 💡 **Core Proficiencies** 💡
 
-* Tools: SQL, Python, Tableau, R
+* Tools: SQL, Python, Tableau, Excel, Power BI, R
 * Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Problem Solving
