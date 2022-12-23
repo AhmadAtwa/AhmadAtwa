@@ -10,6 +10,7 @@ I'm Ahmad, I am a self-made data analyst with a passion for uncovering insights 
 - 📝 Taught myself SQL, Python, Tableau, and R
 
 <br/>
+
 💡 **Core Proficiencies** 💡
 
 * Tools: SQL, Python, Tableau, Excel, Power BI, R
